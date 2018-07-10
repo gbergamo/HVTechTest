@@ -1,0 +1,11 @@
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\obj\Debug\Orders.Domain.csprojAssemblyReference.cache
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\obj\Debug\Orders.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\bin\Debug\Orders.Domain.dll
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\bin\Debug\Orders.Domain.pdb
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\bin\Debug\Orders.Model.dll
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\bin\Debug\Orders.Repository.dll
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\bin\Debug\Orders.Model.pdb
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\bin\Debug\Orders.Repository.pdb
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\obj\Debug\Orders.Domain.csproj.CopyComplete
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\obj\Debug\Orders.Domain.dll
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Domain\obj\Debug\Orders.Domain.pdb

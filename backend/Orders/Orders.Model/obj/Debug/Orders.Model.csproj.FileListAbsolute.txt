@@ -1,0 +1,6 @@
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Model\bin\Debug\Orders.Model.dll
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Model\bin\Debug\Orders.Model.pdb
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Model\obj\Debug\Orders.Model.csprojAssemblyReference.cache
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Model\obj\Debug\Orders.Model.csproj.CoreCompileInputs.cache
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Model\obj\Debug\Orders.Model.dll
+C:\Users\gobm\Documents\Projects\HVTechTest\backend\Orders\Orders.Model\obj\Debug\Orders.Model.pdb
