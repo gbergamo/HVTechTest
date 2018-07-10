@@ -1,38 +1,38 @@
-#FRONTEND
+#frontend_
 
 # compiled output
-frontend/harbourvest/dist
-frontend/harbourvest/tmp
-frontend/harbourvest/out-tsc
+frontend__/harbourvest/dist
+frontend_/harbourvest/tmp
+frontend_/harbourvest/out-tsc
 
 # dependencies
-frontend/harbourvest/node_modules
+frontend_/harbourvest/node_modules
 
 # IDEs and editors
-frontend/harbourvest/.idea
-frontend/harbourvest/.project
-frontend/harbourvest/.classpath
-frontend/harbourvest/.c9/
-frontend/harbourvest/*.launch
-frontend/harbourvest/.settings/
-frontend/harbourvest/*.sublime-workspace
+frontend_/harbourvest/.idea
+frontend_/harbourvest/.project
+frontend_/harbourvest/.classpath
+frontend_/harbourvest/.c9/
+frontend_/harbourvest/*.launch
+frontend_/harbourvest/.settings/
+frontend_/harbourvest/*.sublime-workspace
 
 # IDE - VSCode
-frontend/harbourvest/.vscode/*
-frontend/harbourvest/!.vscode/settings.json
-frontend/harbourvest/!.vscode/tasks.json
-frontend/harbourvest/!.vscode/launch.json
-frontend/harbourvest/!.vscode/extensions.json
+frontend_/harbourvest/.vscode/*
+frontend_/harbourvest/!.vscode/settings.json
+frontend_/harbourvest/!.vscode/tasks.json
+frontend_/harbourvest/!.vscode/launch.json
+frontend_/harbourvest/!.vscode/extensions.json
 
 # misc
-frontend/harbourvest/.sass-cache
-frontend/harbourvest/connect.lock
-frontend/harbourvest/coverage
-frontend/harbourvest/libpeerconnection.log
-frontend/harbourvest/npm-debug.log
-frontend/harbourvest/yarn-error.log
-frontend/harbourvest/testem.log
-frontend/harbourvest/typings
+frontend_/harbourvest/.sass-cache
+frontend_/harbourvest/connect.lock
+frontend_/harbourvest/coverage
+frontend_/harbourvest/libpeerconnection.log
+frontend_/harbourvest/npm-debug.log
+frontend_/harbourvest/yarn-error.log
+frontend_/harbourvest/testem.log
+frontend_/harbourvest/typings
 
 #BACKEND
 
