@@ -41,13 +41,13 @@ namespace Orders.Domain
             FoodList.Sort();
         }
 
-        public string readOrder()
+        public string ProcessOrder()
         {
-            var foodNameList = GetFoodNames();
+            var foodNameList = ConvertFoodIdToFoodName();
             return ReplaceMultipleFoodName(foodNameList);
         }
 
-        private new List<string> GetFoodNames()
+        private List<string> ConvertFoodIdToFoodName()
         {
             var foodsRepositoryList = new Repository.Foods().GetFoodsByTimeOfDay(TimeOfDay);
 

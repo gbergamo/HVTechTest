@@ -28,7 +28,7 @@ namespace Orders.Controllers
             {
                 var orderDomain = new OrderDomain(_apiOptions, order);
                 orderDomain.ValidateOrderDomain();
-                return orderDomain.readOrder();
+                return orderDomain.ProcessOrder();
             }
             catch (Exception ex)
             {
