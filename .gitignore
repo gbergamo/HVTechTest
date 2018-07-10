@@ -1,4 +1,41 @@
+#FRONTEND
+
+# compiled output
+frontend/harbourvest/dist
+frontend/harbourvest/tmp
+frontend/harbourvest/out-tsc
+
+# dependencies
 frontend/harbourvest/node_modules
+
+# IDEs and editors
+frontend/harbourvest/.idea
+frontend/harbourvest/.project
+frontend/harbourvest/.classpath
+frontend/harbourvest/.c9/
+frontend/harbourvest/*.launch
+frontend/harbourvest/.settings/
+frontend/harbourvest/*.sublime-workspace
+
+# IDE - VSCode
+frontend/harbourvest/.vscode/*
+frontend/harbourvest/!.vscode/settings.json
+frontend/harbourvest/!.vscode/tasks.json
+frontend/harbourvest/!.vscode/launch.json
+frontend/harbourvest/!.vscode/extensions.json
+
+# misc
+frontend/harbourvest/.sass-cache
+frontend/harbourvest/connect.lock
+frontend/harbourvest/coverage
+frontend/harbourvest/libpeerconnection.log
+frontend/harbourvest/npm-debug.log
+frontend/harbourvest/yarn-error.log
+frontend/harbourvest/testem.log
+frontend/harbourvest/typings
+
+#BACKEND
+
 backend/Orders/.vs
 backend/Orders/Orders/bin
 backend/Orders/Orders/obj
